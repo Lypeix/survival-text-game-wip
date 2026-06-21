@@ -1,3 +1,3 @@
 PROJECT #3
 
-LEARNING PROJECT WITH AI ASSISTANCE, TRIAL AND ERROR, ETC.
+Discontinued learning project, lacks multi-file json usage
