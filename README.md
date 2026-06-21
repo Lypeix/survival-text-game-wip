@@ -1,3 +1,3 @@
 PROJECT #3
 
-Discontinued messy learning project, lacks multi-file json usage
+Completed messy learning project, albeit lacks multi-file json usage
